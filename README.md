@@ -220,7 +220,7 @@ login tests):
 And finally, run the tests:
 
     $ cd tests/
-    $ rake test
+    $ rake testi
 
 [1]: https://github.com/nextcloud/nextcloud-snap/wiki/Release-strategy
 
